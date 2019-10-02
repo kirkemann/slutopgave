@@ -6,7 +6,7 @@ import Social from './Social';
 const Footer = () => {
     return ( 
         <footer>
-            <div className="container">
+            <div className="container mt-5">
                 <div className="row">
                 <div className="col-12 col-lg-4"> <PraktiskeOplysninger /></div>
                 <div className="col-12 col-lg-4"> <PraktiskeInfo /></div>

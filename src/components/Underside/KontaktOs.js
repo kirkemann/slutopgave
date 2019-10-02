@@ -9,14 +9,14 @@ const KontaktOS = () => {
     <p class="h4 mb-4">Contact us</p>
 
 
-    <input type="text" id="defaultContactFormName" class="form-control mb-4" placeholder="Name" />
+    <input type="text" id="defaultContactFormName" title="Navn" class="form-control mb-4" placeholder="Name" />
 
 
-    <input type="email" id="defaultContactFormEmail" class="form-control mb-4" placeholder="E-mail" />
+    <input type="email" id="defaultContactFormEmail" title="Email" class="form-control mb-4" placeholder="E-mail" />
 
 
     <label>Subject</label>
-    <select class="browser-default custom-select mb-4">
+    <select title="Vælger emne" class="browser-default custom-select mb-4">
         <option value="" disabled>Choose option</option>
         <option value="1" selected>Vælge her</option>
         <option value="2">Kurser</option>
@@ -26,17 +26,17 @@ const KontaktOS = () => {
 
 
     <div class="form-group">
-        <textarea class="form-control rounded-0" id="exampleFormControlTextarea2" rows="3" placeholder="Message"></textarea>
+        <textarea class="form-control rounded-0" title="Tekst boks til besked" id="exampleFormControlTextarea2" rows="3" placeholder="Message"></textarea>
     </div>
 
 
     <div class="custom-control custom-checkbox mb-4">
-        <input type="checkbox" class="custom-control-input" id="defaultContactFormCopy" />
+        <input type="checkbox" class="custom-control-input" title="Check til at sende en kopi " id="defaultContactFormCopy" />
         <label class="custom-control-label" for="defaultContactFormCopy">Send me a copy of this message</label>
     </div>
 
 
-    <button class="btn btn-info btn-block" type="submit">Send</button>
+    <button class="btn btn-dark btn-block" type="submit">Send</button>
 
 </form>
 

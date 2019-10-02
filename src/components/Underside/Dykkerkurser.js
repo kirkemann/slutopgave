@@ -1,6 +1,7 @@
 import React from 'react';
 import Ceritifikathead from '../Ceritfikat/Ceritifikathead';
-import Login from '../Login/login';
+import LoginSite from '../Login/LoginSite';
+
 
 const Dykkerkurser = () => {
     return ( 
@@ -8,7 +9,7 @@ const Dykkerkurser = () => {
             <h3 className="text-lg-center p-5 text-white border bg-dark dykkert">Se vores kurser her</h3>
             <Ceritifikathead className="dykkerk" />
             <h3 className="text-lg-center p-5 text-white border bg-dark">Login og bestil her</h3>
-            <Login />
+            <LoginSite />
         </div>
        
      );

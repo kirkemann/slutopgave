@@ -7,13 +7,13 @@ const Navbar = () => {
     return ( 
             <div className="container">
                 <div className="col-12">
-            <nav className="navbar fixed-top navbar-expand-lg navbar-light bg-light mb-3">
+            <nav className="navbar fixed-top navbar-expand-lg navbar-light bg-light mb-3 gennem">
                 <button className="navbar-toggler" data-toggle="collapse" data-target="#navbarNav1"><span className="navbar-toggler-icon"></span></button>
                 <NavLink className="img navbar-brand" to="/"><img src={Scuba} alt="Scuba Living"/></NavLink>
                 <div className="collapse navbar-collapse" id="navbarNav1">
                     <ul className="navbar-nav">
                         <li className="nav-item">
-                            <NavLink className="nav-link text-dark" to="/home">HOME</NavLink>
+                            <NavLink className="nav-link text-dark" to="/">HOME</NavLink>
                         </li>
                         <li className="nav-item">
                             <NavLink className="nav-link text-dark" to="/Dykkerudstyr">DYKKERUDSTYR</NavLink>
