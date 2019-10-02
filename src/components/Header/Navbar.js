@@ -39,7 +39,7 @@ const Navbar = () => {
                     </div>
                     <div className="btn-group">
                         <button  className="btn btn-dark login"><img className="img-fluid" src={Login} alt="Login"/></button>
-                        <button className="btn btn-secondary"><NavLink to="./LoginSite">Login</NavLink></button>
+                        <button className="btn btn-light"><NavLink to="./LoginSite">Login</NavLink></button>
                     </div>
                 </div>
            
