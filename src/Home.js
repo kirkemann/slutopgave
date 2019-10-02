@@ -4,7 +4,7 @@ import Product from './components/Product/Product';
 import TxtLink from './components/Product/TxtLink';
 import Travel from './components/Travel/Travel';
 import Ceritifikat from './components/Ceritfikat/Ceritifikat';
-import Footer from './components/Footer/Footer';
+
 
 
 

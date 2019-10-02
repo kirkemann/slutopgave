@@ -13,22 +13,22 @@ const Navbar = () => {
                 <div className="collapse navbar-collapse" id="navbarNav1">
                     <ul className="navbar-nav">
                         <li className="nav-item">
-                            <NavLink className="nav-link text-dark" to="/">HOME</NavLink>
+                            <NavLink className="nav-link text-dark" to="/home">HOME</NavLink>
                         </li>
                         <li className="nav-item">
-                            <NavLink className="nav-link text-dark" to="/">DYKKERUDSTYR</NavLink>
+                            <NavLink className="nav-link text-dark" to="/Dykkerudstyr">DYKKERUDSTYR</NavLink>
                         </li>
                         <li className="nav-item">
-                            <NavLink className="nav-link text-dark" to="/">DYKKERREJSER</NavLink>
+                            <NavLink className="nav-link text-dark" to="/Dykkerrejser">DYKKERREJSER</NavLink>
                         </li>
                         <li className="nav-item">
-                            <NavLink className="nav-link text-dark" to="/">DYKKERKURSER</NavLink>
+                            <NavLink className="nav-link text-dark" to="/Dykkerkurser">DYKKERKURSER</NavLink>
                         </li>
                         <li className="nav-item">
-                            <NavLink className="nav-link text-dark" to="/">KONTAKT OS</NavLink>
+                            <NavLink className="nav-link text-dark" to="/KontaktOs">KONTAKT OS</NavLink>
                         </li>
                         <li className="nav-item">
-                            <NavLink className="nav-link text-dark" to="/">OM OS</NavLink>
+                            <NavLink className="nav-link text-dark" to="/OmOs">OM OS</NavLink>
                         </li>
                     </ul>
                     <div className="form-inline form-inline-sm ml-auto formsog">
