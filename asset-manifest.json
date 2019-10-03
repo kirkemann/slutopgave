@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/slutopgave/static/css/main.08f006b1.chunk.css",
-    "main.js": "/slutopgave/static/js/main.6addaa11.chunk.js",
-    "main.js.map": "/slutopgave/static/js/main.6addaa11.chunk.js.map",
+    "main.css": "/slutopgave/static/css/main.3c8ec7d3.chunk.css",
+    "main.js": "/slutopgave/static/js/main.25e6d26a.chunk.js",
+    "main.js.map": "/slutopgave/static/js/main.25e6d26a.chunk.js.map",
     "runtime-main.js": "/slutopgave/static/js/runtime-main.1cf9932c.js",
     "runtime-main.js.map": "/slutopgave/static/js/runtime-main.1cf9932c.js.map",
     "static/css/2.510409cd.chunk.css": "/slutopgave/static/css/2.510409cd.chunk.css",
     "static/js/2.dcbcaa13.chunk.js": "/slutopgave/static/js/2.dcbcaa13.chunk.js",
     "static/js/2.dcbcaa13.chunk.js.map": "/slutopgave/static/js/2.dcbcaa13.chunk.js.map",
     "index.html": "/slutopgave/index.html",
-    "precache-manifest.4b101ece624341697768e3ee0ec7b4a5.js": "/slutopgave/precache-manifest.4b101ece624341697768e3ee0ec7b4a5.js",
+    "precache-manifest.d30e38c7fac6af8961852daa83d24f73.js": "/slutopgave/precache-manifest.d30e38c7fac6af8961852daa83d24f73.js",
     "service-worker.js": "/slutopgave/service-worker.js",
     "static/css/2.510409cd.chunk.css.map": "/slutopgave/static/css/2.510409cd.chunk.css.map",
-    "static/css/main.08f006b1.chunk.css.map": "/slutopgave/static/css/main.08f006b1.chunk.css.map",
+    "static/css/main.3c8ec7d3.chunk.css.map": "/slutopgave/static/css/main.3c8ec7d3.chunk.css.map",
     "static/media/PADI.png": "/slutopgave/static/media/PADI.f613d454.png",
     "static/media/ScubaLiving_logo_small.svg": "/slutopgave/static/media/ScubaLiving_logo_small.e071d947.svg"
   }
