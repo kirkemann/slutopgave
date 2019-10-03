@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/slutopgave/static/css/main.08f006b1.chunk.css",
-    "main.js": "/slutopgave/static/js/main.57a7a6ec.chunk.js",
-    "main.js.map": "/slutopgave/static/js/main.57a7a6ec.chunk.js.map",
+    "main.js": "/slutopgave/static/js/main.72cd1544.chunk.js",
+    "main.js.map": "/slutopgave/static/js/main.72cd1544.chunk.js.map",
     "runtime-main.js": "/slutopgave/static/js/runtime-main.1cf9932c.js",
     "runtime-main.js.map": "/slutopgave/static/js/runtime-main.1cf9932c.js.map",
     "static/css/2.510409cd.chunk.css": "/slutopgave/static/css/2.510409cd.chunk.css",
     "static/js/2.dcbcaa13.chunk.js": "/slutopgave/static/js/2.dcbcaa13.chunk.js",
     "static/js/2.dcbcaa13.chunk.js.map": "/slutopgave/static/js/2.dcbcaa13.chunk.js.map",
     "index.html": "/slutopgave/index.html",
-    "precache-manifest.856d1b359729660f0cf8aa63088c46f4.js": "/slutopgave/precache-manifest.856d1b359729660f0cf8aa63088c46f4.js",
+    "precache-manifest.5bf3ddd6f50b8daa8312340e4705055f.js": "/slutopgave/precache-manifest.5bf3ddd6f50b8daa8312340e4705055f.js",
     "service-worker.js": "/slutopgave/service-worker.js",
     "static/css/2.510409cd.chunk.css.map": "/slutopgave/static/css/2.510409cd.chunk.css.map",
     "static/css/main.08f006b1.chunk.css.map": "/slutopgave/static/css/main.08f006b1.chunk.css.map",
