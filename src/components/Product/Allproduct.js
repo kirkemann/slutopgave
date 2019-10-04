@@ -18,7 +18,7 @@ const Allproduct = () => {
                     {product.map(n => {
                         return ( 
                             <div key={n.id} className={n.class}>
-                                <img className="img-fluid card-img-top" src={"/images/" + n.image} alt={n.alt} />
+                                <img className="img-fluid card-img-top" src={"images/" + n.image} alt={n.alt} />
                                 <div>
                                     <h4 className="card-title text-center"> {n.producttext} </h4>
                                     <p className="card-text text-center"> KR {n.price} </p>

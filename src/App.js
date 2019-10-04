@@ -1,5 +1,5 @@
 import React from 'react';
-import { BrowserRouter, Route } from 'react-router-dom'
+import { HashRouter, Route } from 'react-router-dom'
 import Home from './Home';
 import Navbar from './components/Header/Navbar';
 import Dykkerudstyr from './components/Underside/Dykkerudstyr';
@@ -17,7 +17,7 @@ import Opret from './components/Login/opret';
 
 function App() {
   return (
-    <BrowserRouter>
+    <HashRouter>
       <div className="App">
 
         <Navbar />
@@ -34,7 +34,7 @@ function App() {
 
         <Footer />
       </div>
-    </BrowserRouter>
+    </HashRouter>
   );
 }
 

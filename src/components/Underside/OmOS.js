@@ -21,7 +21,7 @@ const OmOS = () => {
                     {dykker.map(d => {
                         return ( 
                             <div key={d.id} className={d.class}>
-                                <img className="img-fluid card-img-top" src={"/images/" + d.image} alt={d.alt} />
+                                <img className="img-fluid card-img-top" src={"images/" + d.image} alt={d.alt} />
                                 <div>
                                     <h4 className="card-title text-center"> {d.name} </h4>
                                     <p className="card-text text-center">{d.what} </p>

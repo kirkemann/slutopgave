@@ -16,7 +16,7 @@ const Travelplaceimg = () => {
                     {product.map(n => {
                         return ( 
                             <div key={n.id} className={n.class}>
-                                <img className="img-fluid card-img-top" src={"/images/" + n.image} alt={n.alt} />
+                                <img className="img-fluid card-img-top" src={"images/" + n.image} alt={n.alt} />
 
                             </div>
                          );
